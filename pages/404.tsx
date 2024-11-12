@@ -1,8 +1,6 @@
-import React from 'react'
-
 const _404 = () => {
   return (
-    <div>404</div>
+    <div>404 - Not found</div>
   )
 }
 
